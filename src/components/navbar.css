@@ -1,0 +1,16 @@
+.navbar {
+  background: transparent;
+  position: sticky;
+  height: 80px;
+  margin-top: -80px;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  z-index: 999;
+}
+
+.active {
+  background: #003366;
+}
